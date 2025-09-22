@@ -2,6 +2,16 @@
 
 Taskly is a simple yet powerful **web-based task management application** designed to help users stay organized, productive, and in control of their schedules. It combines essential task management tools with a clean interface, reminders, and calendar integration — all accessible directly in the browser.
 
+This project was developed as the **Final Requirement** for the course:  
+**Application Development and Emerging Technologies**.
+
+---
+
+## 👨‍💻 Developers / Members
+- **Jose Uriel V. Ricafrente**  
+- **John Rey F. Billones**  
+- **Carl Shane C. Timtiman**
+
 ---
 
 ## 🚀 Features
@@ -37,6 +47,3 @@ Taskly is a simple yet powerful **web-based task management application** design
 - **Frontend:** HTML, CSS, JavaScript  
 - **Storage:** Local Storage  
 - **API Integration:** Calendarific API (for holiday visibility)
-
----
-
